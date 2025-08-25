@@ -2,11 +2,11 @@
 
 This repository contains my personal configuration files for my development setup, focusing on Neovim and Starship.
 
-## 📝 Neovim 
+## 📝 Neovim
 
 A modern, Lua-based Neovim configuration designed for a fast and efficient workflow. It uses `lazy.nvim` for plugin management.
 
-### ✨ Features & Plugins 󰩉
+### ✨ Features & Plugins
 
 This configuration is packed with features provided by a curated list of plugins, including:
 
@@ -16,7 +16,7 @@ This configuration is packed with features provided by a curated list of plugins
 -   🌳 **Syntax & Highlighting**: `nvim-treesitter` for advanced syntax parsing, `nvim-ts-autotag`, `vim-illuminate` for symbol highlighting.
 -   🧹 **Linting & Formatting**: `conform.nvim` and `nvim-lint` for keeping the code clean.
 
-### ⌨️ Keybindings 󰌌
+### ⌨️ Keybindings
 
 Here is a table of the most important custom keybindings to get you started.
 
@@ -55,7 +55,7 @@ Here is a table of the most important custom keybindings to get you started.
 
 ---
 
-## 🌠 Starship Prompt 󱓞
+## 🌠 Starship Prompt
 
 A custom, feature-rich shell prompt powered by [Starship](https://starship.rs/).
 
